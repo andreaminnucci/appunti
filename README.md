@@ -27,7 +27,15 @@ git add filename
 
 ```
 
-Committare i file aggiunti e/o modificati
+
+Comando per annullare le ultime modifiche fatte, per rimuovere dallo staging i file.
+```
+git rm --cached <file>...
+```
+
+
+Comando che permette di salvare le modifiche nel repository locale.
+Questo comando è come se fosse un checkpoint: indicher
 ```
 git commit -m "Messaggio obbligatorio di commit"
 ```
@@ -45,3 +53,16 @@ git config --global user.email "username@domain"
 ```
 
 
+La prima volta occorrerà collegare il repository locale ad un repository remoto
+```
+git remote add origin https://github.com/....
+git branch -M master
+git push -u origin master
+```
+
+
+
+Portarà tutte le modifiche presenti su tutti i commit in remoto:
+```
+git push 
+```
