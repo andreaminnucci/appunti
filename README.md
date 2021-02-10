@@ -1,7 +1,9 @@
 ### Guide formattazione file README.txt
 
-[Link 1](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-[Link 2](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Link 1]https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+- [Link 1](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+- [Link 2](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 
 ### Comandi GIT
 
