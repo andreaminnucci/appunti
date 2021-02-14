@@ -71,8 +71,28 @@ git push
 
 
 
-### Elenco siti
-
+### Risose tutorial Java, Spring
 - [https://github.com/thombergs](https://github.com/thombergs)
 - [Design Pattern Tutorial](https://www.tutorialspoint.com/design_pattern)
+- [https://loizenai.com/](https://loizenai.com)
+- [Java Tutorials](https://howtodoinjava.com)
+- [Video Corsi Java, C++11 STL, Python, OOP, Visual Studio C#, Basi di dati, HTML, CSS, Javascript, Sistemi Operativi](https://www.youtube.com/channel/UC5_j0dmvXE0xs6ra-clGz4A)
+- [Java67](https://www.java67.com)
+- [JavaSterling](https://javasterling.com)
+- [Java Technology and Beyond](https://javatechonline.com)
+- [Baeldung](https://baeldung.com)
+- [Javarevisited](https://javarevisited.blogspot.com)
+- [italianCoders](https://italiancoders.it)
+- [Lo Sviluppatore](http://losviluppatore.it)
+- [Z Koder](https://bezkoder.com)
+- [Making Java easy to learn](https://javatechonline.com)
+- [SpringHow](https://springhow.com)
+- [JavaGuides](https://www.javaguides.net)
+
+### Progetti Interessanti
 - [Shopizer Ecommerce source code Spring Boot](https://github.com/shopizer-ecommerce/shopizer)
+- [RameshMF](https://github.com/RameshMF)
+- [In 28 minutes](https://github.com/in28minutes)
+
+
+![2021 Java Developer RoadMap](2021_Java_Developer_RoadMap.png)
