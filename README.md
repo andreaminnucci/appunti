@@ -72,7 +72,7 @@ git push
 
 
 ### Elenco siti
-
+- [Free Book](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-it.html#database)
 - [https://github.com/thombergs](https://github.com/thombergs)
 - [Design Pattern Tutorial](https://www.tutorialspoint.com/design_pattern)
 - [Shopizer Ecommerce source code Spring Boot](https://github.com/shopizer-ecommerce/shopizer)
