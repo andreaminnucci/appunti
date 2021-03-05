@@ -10,6 +10,7 @@
 Memorizzare le credenziali
 
 ```
+git config --global user.email "EMAIL"
 vim ~/.git-credentials
 --> https://USER:PASS@github.com
 ```
