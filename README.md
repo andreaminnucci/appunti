@@ -7,6 +7,13 @@
 
 ### Comandi GIT
 
+Memorizzare le credenziali
+
+```
+vim ~/.git-credentials
+--> https://USER:PASS@github.com
+```
+
 All'interno della cartella nella quale creare il repository locale git (contenitore dove mettere tutti i file), eseguire:
 ```
 git init
