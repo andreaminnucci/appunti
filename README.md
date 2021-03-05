@@ -4,7 +4,6 @@
 - [Link 1](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [Link 2](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-
 ### Comandi GIT
 
 Memorizzare le credenziali
