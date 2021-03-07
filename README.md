@@ -55,6 +55,12 @@ git config --global user.email "username@domain"
 ```
 
 
+Per memorizzare le credenziali
+```
+git config credential.helper store
+```
+
+
 La prima volta occorrerà collegare il repository locale ad un repository remoto
 ```
 git remote add origin https://github.com/....
@@ -69,7 +75,18 @@ Portarà tutte le modifiche presenti su tutti i commit in remoto:
 git push 
 ```
 
+Nel caso si presentasse questo warning:
+```
+The file will have its original line endings in your working directory. warning: LF will be replaced by CRLF in Gemfile.
+```
+eseguire questo comando:
+```
+git config core.autocrlf true
+```
 
+
+### Design Pattern
+- https://latemar.science.unitn.it/marco/Didattica/aa_2004_2005/Programmazione2/files/49591/Guidi-GoFDesignPatternsInJava.pdf
 
 ### Risose tutorial Java, Spring
 - [https://github.com/thombergs](https://github.com/thombergs)
@@ -93,6 +110,7 @@ git push
 - [Shopizer Ecommerce source code Spring Boot](https://github.com/shopizer-ecommerce/shopizer)
 - [RameshMF](https://github.com/RameshMF)
 - [In 28 minutes](https://github.com/in28minutes)
-
+- [JUnit 5](https://github.com/dinesh-varyani/JUnit5)
+- [SpringDOC](https://github.com/springdoc)
 
 ![2021 Java Developer RoadMap](2021_Java_Developer_RoadMap.png)

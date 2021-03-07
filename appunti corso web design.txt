@@ -1,0 +1,766 @@
+1) Cosa è il Web Design
+Tecnica di sviluppo di interfacce per pagine web e web app
+Si occupa quindi dell'aspetto front end di un sito
+considerando anche l'esperinza che l'utente avrà con l'approccio all'interfaccia
+UX (User Experience)
+posizionamento, colore,grandezza andrà incidere una buona interfaccia grafica
+
+
+Web Designer
+
+ha gli strumenti
+ha in mano gli 
+semplici funzionali
+navigaizone odierna
+pc desktop, tablet, smartphone
+esperto di:
+- UI = User Interfance
+- Usabilità della pagina web: quanto la pagina è usabile o mette in difficoltà l'utente
+- Grafica ottimizzata per il Web di qualsiasi media 
+- Tecnologie web per sisi statici; HTML CSS javascript
+*********************************************************************************
+2) Strumenti e compentenze del Web Designer
+
+I linguaggi di base di partenza: HTML e CSS
+HTML: scheletro di un sito o web app
+
+
+Strumenti di gestione per la grafica ottimizzata e specifica per il web
+(ridimensionamento, tecniche formati, 
+Strumenti di gestione dei meia (video e audio)
+
+Le analisi di usabilità
+
+Le regole e i criteri di composizione delle strutture web
+
+I framework responsivi: 
+
+Gli strumenti di pubblicazione: gestione hosting e uso di FTP
+
+*********************************************************************************
+SEZIONE 2 STRUMENTI DEL WEB Design
+
+4. Editor di codice
+	sw, tool che permette la scrittura del codice per lo sviluppo di una pagina web
+	html css : grammatica del web design
+	
+	brackets.io free
+		espandibile: plugin per avere funzionalità in più
+	adobe Dreamweaver  pagamento
+	sublimetexet
+	atom.io <--- veloce, versatile, personalizzabile
+		pacchetti da installare:
+		https://atom.io/packages
+			atom-html-preview
+			chrome-color-picker
+			colorio: ricerca dei colori
+			php-server
+			
+		
+		temi:
+			atom-material-syntax
+			atom-material-ui
+	
+	
+chrome: 
+	plugin strumenti per sviluppatori
+	
+	Tasto DX mouse---> ispeziona
+Ispezione: possiamo provare a modificare lo stile cambiando gli elementi CSS
+
+
+Estenzioni di chrome:
+	colorzilla
+
+*********************************************************************************
+6) strumenti online per la gestione della grafica 
+
+	https://www.canva.com FREE
+	altrimenti Photoshop, Illustrator
+	
+	gravit.io (https://www.designer.io/it/) gestisce anche i livelli
+	
+	https://editor.method.ac/ lavora con SVG
+	
+	SVG: Scalable Vector Graphic    formato grafico vettoriale
+
+*********************************************************************************
+7) Strumenti per l'ottimizzazione delle immagini
+	https://editor.pho.to/ da usare per ritagli veloci
+	
+		permette di modificare foto
+	
+	qualità aumenta la dimensione (per il web 350kb per un'immagine è abbastanza grande)
+ottimizzazione delle immagini: buona qualità con un ottimo pesp
+
+
+optimizilla: https://imagecompressor.com/
+
+*********************************************************************************
+8) risorse online per media liberi da copyright
+tutte le immagini grafiche utilizzi in un sito web deve essere autorizzata oppure indicare la fonte
+oppure deve essere dichiarata che quella risorsa sia libera
+
+
+https://unsplash.com/
+https://pixabay.com/it/
+https://www.pexels.com/it-it/
+https://isorepublic.com/
+https://stokpic.com/
+https://it.freepik.com/  licenza gratis con attribuzione
+	cioè attribuire a freepick
+
+*********************************************************************************
+9) strumenti per la generazione di favicon (Favorit Icon)
+grandezza ideale ottimizzata 16x16
+
+https://www.favicon-generator.org/   genera anche un'icona da un'immagine
+
+
+1and1 create favicon
+
+*********************************************************************************
+
+
+*********************************************************************************
+10) strumenti per la creazione di mockup
+wireframe e mockup
+tool da usare in una fase precisa di un progetto
+wireframe (appunti presi a mano) è una bozza della nostra pagina web o sito
+serve per realizzare un modello reale---> un mockup
+modello/prototipo di come sarà il nostro sito
+da offrire al cliente da visionare prima 
+usato per fare aggiustamenti prima di
+
+balsamiq.com (a pagamento)
+mockflow.com (a pagamento)
+cacoo.com
+
+innerplace holder creare posto per il testo
+*********************************************************************************
+11) reference per i linguaggi web html standard 5 e css standard 3
+
+
+developer.mozilla.org --> tecnologie web ---> HTML e CSSha anche dei tutoril per imparare
+www.w3schools.com
+https://css-tricks.com/  almanaccao per vedere le proprietà dei css
+snippets: sintesi di codice che sono sempre uguali
+
+
+
+https://caniuse.com <--- supporto dei tag html sui browser
+
+
+
+normalize.css su git e npm ---> molto utile va a normalizzare i browser rispetto agli standard
+*********************************************************************************
+SEZ 3 I PRINCIPI DEL WEB DESGIN
+
+I 6 elementi generali del web design
+elementi che si ritrovano in tutte le pagine web
+in una pagina web troviamo:
+- linee
+- forme 
+- colori
+- background
+- tipografia (tipo carattere)
+- immagini e icone
+
+hanno scopo rendere comunicazione gradevole pagina web in senso estetico
+e efficacie ed efficiente
+
+discrezione
+il web design moderno è molto essenziale e disceto, 
+nessuno degli elementi è mai invadente anche quando gli oggetti sono animati
+cioè gli elementi non si vanno a 
+
+
+LINEE
+una linea che crea una separazione tra una sezione e un'altra (il colore background è diverso )
+separare la diversità dei contenuti
+elementi/sezioni con contenuti diversità
+
+FORME
+sono box, contenitori: sono semplici ed essenziali
+
+COLORE
+il colore  mette in evidenza, mette il focus su un oggetto un testo
+campitura a colore pieno e anche con quanta armonia viene creata
+(es iphone color rosso con background rosso)
+
+box diversi con colori diversi
+il colore espremi un certo sentimento, è un portare di simbolo
+
+
+BACKGROUND
+non deve distrarre
+banditi background con colorazione eccessiva, troppo figurativa
+si può separare i box tra colori diversi
+si può realizzare anche con una tessitura
+
+TIPOGRAFIA
+scelta di un certo tipo di font rispetto ad un altro
+grandezza, colore, come allineato (centratro dx), spaziatura all'interno
+
+IMMAGINI/ICONE
+elemento essenziale
+
+
+
+
+*********************************************************************************
+13) Anatomia di una pagina web: i principi del web design
+architettura funzionale all'usabilità dell'utente
+friendly: facilità come l'utente trova una informazione
+comunicativo: la comunicazione deve essere efficacie
+
+- Bilanciamento
+	cromatico: sfondo bianco/colori neri oppure viceversa
+	contrasto cromatico 
+	forte dissonanza bianco nero
+	anche la disposizione delle immagini (es formano un triangolo)
+	
+- Ritmo: ti da il senso del movimento ed ha in se per se il senso della ripetizione
+	è dato dal ripetere la stessa forma della pagina,
+	es: stesso tipo di contenitore (rettangolo senza smussatura degli angoli,
+	   immagini interne che seguono la stessa angolazione)
+	   
+
+- Proporzione: utilizziamo sia a livello tipografico (titolo grande, titolo più piccolor
+	titolo più grande: mette in evidenza un messaggio
+	proporzione delle immagini e delle dimensioni
+devono dare l'idea di come sia nella realtà: es diversi telefoni modelli diversi proporzianati nella dimensione
+immagine enorme su un campo bianco
+
+- Spazio
+	l'utilizzo universale delle grandi pagine bianche, o cmq chiaro,
+	sfumature del grigio (+/- tenue).
+
+- Dominanza
+	la comunicazione è legata al marketing
+	mettere in evidenza dominante background e oggetto sopra il background ritagliata
+	campitura di colore (background rosso e oggetto rosso, iphone rosso)
+
+- Gerarchia
+	osservare un principio gerarchico:
+	presenza immagini dominanti, che rimangono impresse, e
+	vengono messe anche delle scritte in evidenza insieme al titolo
+	
+	le sezioni di divisioni devono avere importanza diversa, gerarchicamente offrono importanza diversa
+
+
+- Unità o uniformità (pagina uguale in tutti gli aspetti, ci sono anche degli aspetti di rottura, ma voluti: focalizzare l'attenzione da un oggetto all'altro)
+	stile che una pagina web deve avere
+	usare lo stesso font per tutti i titoli delle pagine, sottotitoli
+	
+	sezioni: titolo stessa posizione e allineamento + fotografia
+	deve essere uniformità dello stile 
+	stesse icone per mettere in evidenza parti della pagina le stesse
+	
+palette di colori: scelgo pochi colori da utilizzare 	
+
+
+
+*********************************************************************************
+14) anatomia di una pagina web: i criteri del web design
+scopo del sito web: comunicare in maniera efficacie ed efficiente
+
+sito apple: sviluppo verticale
+sfondo grigio molto profonto
+grande titolo 
+
+
+titolo bianco con sfondo scuro: si vuole mettere in evidenza
+sfondo molto chiaro  font scuro
+
+
+- contrasto
+	
+	
+- ripetizione
+	es ripetizione di icone ripetute orizzontalmente
+	icone nello stesso stile, stesso angolo di inclinazione, stessa dimensione
+
+- allineamento
+
+
+- prossimità
+creare distacco tra sezioni oppure elementi insieme
+
+
+*********************************************************************************
+15) Tipografia
+caratteristiche del font
+
+- famiglia: serif, sans-serif, monospace, cursive
+	Arial Black, Gadget, sans-serif
+	Comic Sans MS, Comic Sans MS5, cursive
+	Courier New, Courier6, monospace
+	....	
+	Times New Roman, seris
+	Verdana, sans-serif
+	
+	
+	
+- grandezza: definita in pixel (misura assoluta, fissa)
+
+- peso: normal, bold, light
+
+- caratteristiche di crenatura (distanza esistenze tra una lettera e l'altra),
+ elementi ascendenti (verso l'alto) e discendenti (verso basso)
+ 
+
+
+*********************************************************************************
+16) Utilizzo dei font google
+galleria più utilizzata e più pratica da utilizzare
+https://fonts.google.com
+
+Comforta famiglia serif (molto usato)
+
+un progetto deve avere un'uniformità di stile anche per la scelta del font
+basta un paio di font:
+un font per titoli e sottotitoli
+un font per testo
+
+all'aumentare del numero dei font aumenta il tempo di caricamento
+anche il peso del bold implica sul tempo di caricamento
+abbassando le performance del sito
+
+*********************************************************************************
+17) Utilizzo Font Awesome
+icone che sono a meta strada: icone trattate come dei font
+adattabili e molto leggere ai nostri progetti
+hanno un aspetto decorativo ed esplicativo
+sono funzionali alla comunicazione
+
+libreria più famosa, più fornita
+https://fontawesome.com/
+icone personalizzate e dimensionate
+Looking for more? ---> esempi da utilizzare
+
+
+*********************************************************************************
+18) La scienza dei colori
+
+Il colore è un elemento determinante per un sito
+aspetto estetico d'impattto d'efficacia
+
+accompagnare in modo giusto il nostro messaggio
+
+scehlta delle immagini, icone, colori
+
+buona scelta palette colori per il progetto
+
+Esiste il prisma di luce
+
+RUOTA DEI COLORI: cerchio di colori:
+	
+
+bianco: insieme sette colori arcobaleno
+
+colori neutri: bianco e nero
+
+
+colori primari, puri che non nascono dal nulla: rosso blu giallo
+	
+secondari: mescolanza di due primari
+	verde: giallo 50% + blu 50%
+	viola: 50 blu e 50 rosso
+	arancione: 50 giallo + 50 rosso
+	grigio: 50 nero + 50 bianco
+	
+terziari: mescolanza di un primario con un secondario
+
+complementari: sono opposti nella ruota dei colori
+
+analoghi: seguono i primari nella ruota
+
+monoscromatici: in scala rispetto alle ombre e alla tonalità
+
+temperature dei colori:
+	colori caldi
+		giallo, rosso, arancione
+		
+	colori freddi
+		blu, verde, viola
+
+	colori neutri
+		nero, bianco, grigio
+
+nero:  negazione di tutti i colori
+
+
+tonalità espresa dalla hue: tinta o tonalità dei colori
+	quanto colore c'è
+	
+	saturazione: quantità di colore
+			carico di quel colore
+			
+brightness/lithness: quantità di luce
+
+esiste quindi anche un codidce HSB o anche  HSL per indicare
+uno specifico colore in base all'indice di Hue, di saturazione e luc
+
+
+
+I MODELLI PER L'UTILIZZO DEI COLORI NEL WEB DESIGN
+
+
+Codice RGB rosso verde blue
+con il RGB si può utilizzare anche il codice alpha
+rosso con canale a: da 0 a 1
+indica le opacità: 0 = trasparenza
+
+codice esadecimale: formato da 6 caratteristiche
+
+
+
+
+quando si sceglie una palette colori: NON ESAGERARE
+max 3 o 4 e devono essere armonizzati
+uniformità di stile
+
+titoli stesso colori
+esiste un colore di basde che conferisce lo stile al nostro progetto
+e ci sono colori che si associano a questi
+
+
+
+*********************************************************************************
+19) Creare una palette colori
+
+https://paletton.com/
+https://color.adobe.com/it/create/color-wheel
+
+
+se abbiamo un'immagine particolarmente importante che enfatizza il sito
+possiamo creare una palette di colori a partire da quell'immagine
+
+
+*********************************************************************************
+20) Introduzione agli stili grafici
+SCHEUMORFISMO che ha forma, molto utilizzato da Apple, soprattutto in iOS
+un'icona, una tipologia di immagine che indica una realtà
+es: una libreria a forma di scaffale con dei libri indica una app per la lettura dei libri
+
+oggetti conosciuti dal mondo fisico vengono fatte delle icone per indicare le icone
+
+le immagini create con questo stile sono un pò iù pesanti rispetto ad altre soluzioni grafiche perche sono icone
+anche una certa sfumata alla tridimensionalità
+
+
+
+FLAT DESIGN
+stile molto moderno, instaurato da Microsoft, tipico a partire da Windows 8
+flat=piatto
+caratteristica di mancanza di profondità
+estremamente stilizzato
+nessuna ombra, nessuna tridimensionalità
+
+
+
+MATERIAL DESIGN: quasi flat con un occhio allo scheumorfismo
+stile tipico di Google
+https://material.io/guidelines
+
+quasi flat: c'è una ricerca che gli oggetti hanno quasi uno spessore
+ dicono quali sono i principi guida
+ molta ricerca dell'armonizzazione senza ricerca di troppi contrasti
+
+
+
+*********************************************************************************
+SEZIONE 4
+cosa è HTML
+E' un linguaggio di marcatura letto nel browser che indica allo stesso la struttura
+che dovrà essere visualizzata per l'utente
+Quindi, indica che tipologia di elementi utilizza quella specifica pagina wev
+al di là dello stile che essi assumeranno
+
+lo standard attuale è HTML5
+
+è errato definire HTML un linguaggio di programmazione
+
+è lo scheletro di qualunque web app
+
+dice al browser questa è un'immagine, un titolo, etc
+
+
+
+
+Cosa è (...sono...) CSS, è il come sono
+Cascading Style Sheet
+ 
+Anch'essi letti dal browser e secondo le regole impostate ne visualizza il rendering. I fogli di stile dicono che aspetto avrà quel particolare tag HTML.
+ 
+Lo standard attuale è CSS3
+E' errato definire CSS un linguaggio di programmazione
+
+HTML e CSS lavorano insieme
+HTML costruisce la struttura
+CSS da lo stile allo scheletro --> a cascata: c'è una regola di ereditarietà delle proprietà
+
+Cosa sono HTML e CSS
+In conclusione, il browser legge il codice HTML collegato ad un foglio di stile e quando si trova davanti ad un tag HTML si chiede: "Tu chi sei?"
+
+Il tag HTML risponde: "Sono un titolo di un certo livello".
+
+Bene.
+
+Ma non basta e il browser chiede ancora: "Ma come sei fatto e dove sei posizionato esattamente?"
+
+Il tag HTML risponde: "Non so esattamente ma puoi chiedere al CSS che è collegato a me!"
+
+Il CSS risponde inviando le sue specifiche: "Quel titolo deve essere rosso, grande tanto, allineato al centro e distante tanto dalla riga seguente. " A questo punto il browser ha tutte le informazioni per visualizzare quello che il web designer voleva.
+
+ 
+
+Cosa è SVG
+Scalable Vector Graphics
+ 
+
+Quando lavoriamo con grafica vettoriale, utilizziamo grafica sempre perfettamente scalabile a differenza della grafica raster che perde dettagli o risulta "pixellata" quando ridimensionata.
+
+SVG invece utilizza vettori che, ridimensionati, non perdono qualità.
+
+ 
+
+I file SVG sono di fatto dei semplici file di testo, sono oltretutto molto leggeri e facili da editare.
+
+ 
+
+Particolarmente indicato questo formato per la corretta visualizzazione nel disegno reattivo delle interfacce web
+
+ 
+
+Le fasi di sviluppo di un sito
+Incontro con il cliente
+
+Conoscere la realtà che il sito dovrà presentare
+
+Primi schizzi, appunti, parole chiave...brainstorming
+
+Situazione: c'è già un sito? Restyling, intervento per renderlo responsivo, impostarlo di nuovo...?
+
+
+
+
+
+
+
+
+
+******************************************************************************************************************************************************************
+22) Struttura di baseHTML
+
+<!DOCTYPE html>    indica il tipo di documento
+
+<html>  dentro dovrà esserci tutto quello che va visualizzato
+
+<head>  parte della pagina dove vanno le intestazioni
+ alcuni elementi html che danno specifiche al documento
+
+<body> al suo interno contiene tutto il contenuto visibile sulla pagina
+
+<html lang=""> indica la lingua specifica per la quale si sta sviluppando
+<meta charset="utf-8">  indica il tipo di carattere da usare nel body
+
+<!-- commento --> rendo nullo la lettura del contenuto comento
+
+HTML5 non ha strettamente bisogno delle chiusure dei tag
+è strettamente consigliato inserirli perchè ci da ad occhio come è strutturata la pagina
+
+
+
+*********************************************************************************
+23) come si struttura una pagina web
+
+
+<section> distingue una sezione all'interno della struttura
+
+<header> è l'intestazione della sezione
+<nav> elemento di navigazione: menu
+
+<div> divisione all'interno di sezioni
+<footer> elemento che si posiziona in basso
+		usato per informazioni di servizio, contatti, etc
+
+<br/> testo andare a capo 
+
+
+Comportamento di default: tutto è utilizzato come elemnto di blocco
+una sezione sotto l'altra in maniera ordinata
+
+
+*********************************************************************************
+24) la sintassi di base
+<p> paragrafo: delimitare un elemento 
+
+<span> lo pongo all'interno del paragrafo: non crea un nuovo spazio ma rimane all'interno
+
+<h1> stile e grandezza del titolo
+esistono 6 livelli di titoli
+
+
+*********************************************************************************
+25) Gli elementi di formattazione
+
+lorem ipsum
+it.lipsum.com  genera dei paragrafi
+
+<b>
+<strong>        la differenza tra i due sta nella funzione che assume il browser
+   <strong> il browser applica
+		ottima di ricerca dei motori di ricerca: a livello semantico
+		il browser legge il testo contenuto come testo fondamentale
+		SEO: in ottica di ottimizzazione dei motiri di ricerca strong è meglio di b
+		
+<em> enfasi al testo
+<i>  italic     		stessa funzione però c'è diff a livello semantico a livelllo del browser
+
+<small>
+<q> virgolette per citazioni
+<blockquote>
+
+*********************************************************************************
+26) Le liste: sono di 2 tipi ordinate e non ordinate
+<ul> unordered list
+<li> list item
+
+è possibile costruire sottoliste
+
+<ol> lista ordinata (il numero si può diversificare)
+
+*********************************************************************************
+27) Link a risorse esterne
+<a > anchor,  va ancorare la parola ad un sito esterno	
+	target: dove va a finire il link a cui si deve aprire
+	targer="_self" valore di default
+
+<a href="#id_tag_che voglio portare all'inizio della pagina">
+
+********************************
+
+<iframe src="https://www.youtube.com/embed/1CYZNJCE?autoplay=1"></iframe>
+per inglobare un video youtube con i suoi controlli
+
+
+
+************************************************************************************************
+30) Utilizzare i fogli di stile
+
+3 modi per lavorare con gli stili
+
+1) non raccomandato: stile in linea all'interno dello stesso codice HTML
+
+2) 	h1 {
+		color: red;
+	}
+
+3) uso più normale dei fogli di stile:
+	file esterni
+	separare HTML dallo stile
+	
+	
+2) all'interno di head: <style type="text/css"></style>
+
+
+<link rel="stylesheet" href="">
+rel: relativo a
+
+mettere i fogli all'interno delle cartelle
+
+************************************************************************************************
+30) Integriamo i Google Fonts
+non appesantire le magine, 2 font per uniformità 
+non è bello anche esagerazione di colori
+
+Montserrat, Lato: font google molto amato dai web designer
+	Load Time: fast
+
+body {
+	font-family: "Montserrat", sans-serif (famiglia)
+}
+qualsiasi elemento all'interno del body hanno assunto questo font
+
+************************************************************************************************
+man mano che scrivo le regole
+aggiungo le regole in base all'ordine della pagina:
+es: all'inizio regole css dell'header, alla fine il footer
+
+font-size:   PX misura fissa
+
+font-weight:si mettono i pesi creati con font google
+
+background-color negli h1 viene impostato a tutta la riga
+
+************************************************************************************************
+33) formattiamo la tabella
+
+diamo un bordo alla tabella
+table { border: 1px solid #000 } (dimensione stile colore)
+
+devo considerare le celle per dare i bordi
+
+table, th, td {
+	border: 1px solid #000
+}
+
+aggiungere --> border-collapse: collapse; /* il dobbio bordo da cella a cella va a collassare */
+
+tbody {
+	color /* colore al font del testo all'interno del tbody
+}
+thead {
+	text-transform: uppercase <-- metto il testo tutto maiuscolo
+					capitalize (produce una lettera iniziale maiuscola)
+	background-color: gray	
+	
+}
+
+
+
+************************************************************************************************
+34) le classi: dare uno stile solo per un gruppo di stili
+
+i fogli di stile si basano sulla regola dell'ederditarità
+un elemento eredita le regole a meno che non gli vengano specificate
+
+
+<div class="back-special">
+	<h1>I miei amici</h1>
+	<ol>
+	....
+</div>
+
+.back-special h1 {
+	   /* applico la regola solo a tutti gli h1 che stanno all'interno di quella classe
+}
+
+un elemento può essere associato più classi
+************************************************************************************************
+l'attributo id rendo unico un tag rispetto a tutti gli altri
+quando utilizzare id o class?
+quando voglio trovare un elemento in modo univoco: regola unica
+si possono usare più classi su un elemento
+ma un solo id su un elemento
+
+************************************************************************************************
+36) formattiamo le liste
+<ol> attributo type = A <- inizia con lettera A
+
+
+
+alt="" su img importante da usare per persone ipovendenti
+
+Google e i motori di ricerca vanno ad intercettare le immagini quindi è importante valorizzare le immagini
+
+
+
+
+padding: gestione degli spazi (non va a calcolare gli spazi tra un elemento e un altro)
+
+
+
+41) Integriamo i FontAweasone
