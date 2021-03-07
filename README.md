@@ -4,8 +4,18 @@
 - [Link 1](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [Link 2](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-
 ### Comandi GIT
+
+Memorizzare le credenziali
+```
+git config --global credential.helper cache
+git config --global user.email "EMAIL"
+vim ~/.git-credentials
+--> https://USER:PASS@github.com
+
+git config credential.helper store
+```
+
 
 All'interno della cartella nella quale creare il repository locale git (contenitore dove mettere tutti i file), eseguire:
 ```
@@ -54,13 +64,6 @@ git config --global user.name "username"
 git config --global user.email "username@domain"
 ```
 
-
-Per memorizzare le credenziali
-```
-git config credential.helper store
-```
-
-
 La prima volta occorrerà collegare il repository locale ad un repository remoto
 ```
 git remote add origin https://github.com/....
@@ -107,10 +110,12 @@ git config core.autocrlf true
 - [JavaGuides](https://www.javaguides.net)
 
 ### Progetti Interessanti
+- [Free Book](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-it.html#database)
 - [Shopizer Ecommerce source code Spring Boot](https://github.com/shopizer-ecommerce/shopizer)
 - [RameshMF](https://github.com/RameshMF)
 - [In 28 minutes](https://github.com/in28minutes)
 - [JUnit 5](https://github.com/dinesh-varyani/JUnit5)
 - [SpringDOC](https://github.com/springdoc)
+
 
 ![2021 Java Developer RoadMap](2021_Java_Developer_RoadMap.png)
