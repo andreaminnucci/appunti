@@ -87,6 +87,17 @@ eseguire questo comando:
 git config core.autocrlf true
 ```
 
+### Libri
+- https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-it.md
+
+### Learning
+- https://www.freecodecamp.org
+- https://teamtreehouse.com
+- https://www.codecademy.com
+- https://alison.com/it
+- https://frontendmasters.com
+- https://www.sololearn.com
+
 
 ### Design Pattern
 - https://latemar.science.unitn.it/marco/Didattica/aa_2004_2005/Programmazione2/files/49591/Guidi-GoFDesignPatternsInJava.pdf
