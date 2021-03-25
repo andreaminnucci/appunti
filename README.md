@@ -105,6 +105,7 @@ git config core.autocrlf true
 ### Risose tutorial Java, Spring
 - [https://github.com/thombergs](https://github.com/thombergs)
 - [Design Pattern Tutorial](https://www.tutorialspoint.com/design_pattern)
+- [Refactoring Guru - Design Pattern](https://refactoring.guru)
 - [https://loizenai.com/](https://loizenai.com)
 - [Java Tutorials](https://howtodoinjava.com)
 - [Video Corsi Java, C++11 STL, Python, OOP, Visual Studio C#, Basi di dati, HTML, CSS, Javascript, Sistemi Operativi](https://www.youtube.com/channel/UC5_j0dmvXE0xs6ra-clGz4A)
